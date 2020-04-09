@@ -1,0 +1,14 @@
+README 
+pa3 
+srani 
+
+FILES INCLUDED:
+Arithmetic.c 
+BigInteger.c
+BigInteger.h
+BigIntegerTest.c
+List.c
+List.h
+ListTest.c
+README 
+Makefile

@@ -1,0 +1,9 @@
+README
+
+Pa1 Contains:
+List.h Header file for List Adt
+List.c ADT File 
+ListClient.c Another test file for the List ADT
+Lex.c Client module to indirectly sort strings in alphabetical order
+Makefile
+README

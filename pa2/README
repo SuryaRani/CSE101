@@ -1,0 +1,17 @@
+//-----------------------------------------------------------------------------
+// README
+// Surya Rani 
+// srani
+// pa2
+//-----------------------------------------------------------------------------
+
+FILES CONTAINED IN PA2:
+Sparse.c : main client module 
+Matrix.c : main adt 
+Matrix.h : adt header
+MatrixTest.c : test file for matrix adt 
+List.c : secondary adt used in matrix 
+List.h : header for list 
+ListTest.c : test file for list adt 
+Makefile : compiles and creates executable binary files 
+README 

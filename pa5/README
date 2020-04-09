@@ -1,0 +1,14 @@
+README Pa5
+
+Files Included 
+1. README
+2. Makefile
+3. List.c
+4. List.h
+5. Graph.c
+6. Graph.h 
+7. GraphTest.c
+8. FindComponents.c 
+
+
+In Visit I made it return time so that way the local variable in DFS would be updated in Visit as well
